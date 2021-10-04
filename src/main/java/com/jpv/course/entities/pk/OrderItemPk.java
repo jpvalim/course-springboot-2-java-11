@@ -62,6 +62,4 @@ public class OrderItemPk implements Serializable {
 			return false;
 		return true;
 	}
-	
-	
 }
