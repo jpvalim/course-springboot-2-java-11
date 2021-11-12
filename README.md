@@ -1,6 +1,6 @@
 # JAVA COMPLETO - Módulo WebServices JPA Hibernate
 
-## Objetivo do curso
+## Objetivo
 
 - Criar Projeto Spring Boot Java
 - Implementar modelo de domínio
