@@ -9,3 +9,6 @@
 - Povoar o banco de dados
 - CRUD - Create, Retrieve, Update, Delete
 - Tratamento de exceções
+
+Projeto publicado no Heroku usando banco de dados PostgresSQL
+Exemplo de chamada do backend: https://javaspcourse.herokuapp.com/users/
